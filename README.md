@@ -22,3 +22,4 @@ The whitespace is real and verified — no tool chains *segment-leader discovery
 | [02 — Wedge & Go-to-Market](docs/02-wedge-and-gtm.md) | Three wedges scored, the sequenced hybrid plan, demand tests with kill criteria, target market, pricing |
 | [03 — Product & Distribution Architecture](docs/03-product-and-distribution.md) | Pipeline design, AnswerMonk asset-reuse map, output formats, honest AEO scope, agent-discovery strategy, legal architecture |
 | [04 — Research Appendix](docs/04-research-appendix.md) | Competitor/pricing tables and the key evidence behind every claim |
+| [05 — The Living Page Wedge: "Brando Pulse"](docs/05-living-page-wedge.md) | Round 2: the self-evolving page evaluated hard — why the naive version dies, the zero-traffic fitness-function inversion, the actuator gate, the breakout marketing plan, and the full roadmap |
